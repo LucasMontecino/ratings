@@ -1,0 +1,21 @@
+.rating-container {
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #FBFCFC;
+    margin: 0 2px;
+}
+
+.active {
+    background-color: #F4D03F;
+}
+
+.inactive {
+    background-color: #FBFCFC;
+}
